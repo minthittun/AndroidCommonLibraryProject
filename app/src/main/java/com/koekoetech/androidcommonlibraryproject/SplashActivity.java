@@ -5,13 +5,12 @@ import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 import android.os.Build;
 import android.os.Handler;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.koekoetech.androidcommonlibrary.common.BaseActivity;
 import com.koekoetech.androidcommonlibrary.custom_control.MyanTextView;
 import com.koekoetech.androidcommonlibrary.helper.FontSharePreferenceHelper;
-import com.koekoetech.androidcommonlibrary.helper.TextDictionaryHelper;
+import com.koekoetech.androidcommonlibraryproject.helper.TextDictionaryHelper;
 
 import butterknife.BindView;
 

@@ -1,6 +1,10 @@
-package com.koekoetech.androidcommonlibrary.helper;
+package com.koekoetech.androidcommonlibraryproject.helper;
 
 import android.content.Context;
+
+import com.koekoetech.androidcommonlibrary.helper.AndroidCommonConstant;
+import com.koekoetech.androidcommonlibrary.helper.AndroidCommonSetup;
+import com.koekoetech.androidcommonlibrary.helper.TextModel;
 
 import java.util.ArrayList;
 
