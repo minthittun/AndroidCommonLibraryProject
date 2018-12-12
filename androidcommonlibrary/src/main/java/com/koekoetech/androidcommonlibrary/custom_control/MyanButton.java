@@ -43,7 +43,7 @@ public class MyanButton extends AppCompatButton {
     }
 
     private void applyCustomFont(Context context) {
-        Typeface customFont = FontCache.getTypeface("Calibre-Light.ttf", context);
+        Typeface customFont = FontCache.getTypeface("Avenir-Regular.ttf", context);
         setTypeface(customFont);
     }
 
