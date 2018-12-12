@@ -71,7 +71,7 @@ public class MyanTextView extends AppCompatTextView {
     }
 
     private void applyCustomFont(Context context) {
-        Typeface customFont = FontCache.getTypeface("Avenir-Regular.ttf", context);
+        Typeface customFont = FontCache.getTypeface("Calibre-Light.ttf", context);
         setTypeface(customFont);
     }
 
