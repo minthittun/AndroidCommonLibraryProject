@@ -14,6 +14,6 @@ allprojects
 ```
 dependencies 
 {
-    implementation 'com.github.minthittun:AndroidCommonLibraryProject:1.0'
+    implementation 'com.github.minthittun:AndroidCommonLibraryProject:1.0.3'
 }
 ```
